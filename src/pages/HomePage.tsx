@@ -13,7 +13,7 @@ export default function HomePage(): JSX.Element {
           View Docs
         </Button>
       </article>
-      <img src="/src/assets/principalImage.svg" width={600} height={600} alt="PrincipalImage" />
+      <img src="./src/assets/principalImage.svg" width={600} height={600} alt="PrincipalImage" />
     </div>
   )
 }
